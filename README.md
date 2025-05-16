@@ -21,7 +21,6 @@ Founder of Chaotix Crew' and Dousky Team
 
 ----------------------------------------------
 
-*   [Discord](discord.com/users/thedogdousky_)
 *   [Bluesky](https://bsky.app/profile/dexdousky.bsky.social)
 *   [Twitter](https://x.com/dex_dousky)
 *   [Soundcloud](https://soundcloud.com/dexdousky)
