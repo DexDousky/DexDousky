@@ -17,6 +17,17 @@ Founder of Chaotix Crew' and Dousky Team
 
 ----------------------------------------------
 
+# -- My Socials --
+
+----------------------------------------------
+
+*   [Discord](discord.com/users/thedogdousky_)
+*   [Bluesky](https://bsky.app/profile/dexdousky.bsky.social)
+*   [Twitter](https://x.com/dex_dousky)
+*   [Soundcloud](https://soundcloud.com/dexdousky)
+
+----------------------------------------------
+
 My recent work includes Projects from college like:
 *   [Queimada Crash](https://github.com/DexDousky/APS-jogo-das-queimadas)
 *   [Python Encrypt Menssager](https://github.com/DexDousky/python_rip.pynthao)
@@ -32,6 +43,9 @@ I also had a lil' hand on other mods like:
 *   [Summer Break Special](https://gamebanana.com/mods/534099)
 *   [FNF: Stickman with a Screwdriver ](https://gamebanana.com/mods/411552)
 *   [Bonely's Rhythm](https://gamebanana.com/mods/535787)
+
+----------------------------------------------
+
 
 <div aling="left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexDousky&show_icons=true&theme=bear&count_private=true"/>
