@@ -6,7 +6,7 @@
 
 ---
 
-B.Day: 09/13
+B.Day: 09/13 \n
 My nationality: Brazilian
 ---
 
@@ -26,4 +26,4 @@ I also had a lil' hand on other mods like:
 *   [FNF: Stickman with a Screwdriver ](https://gamebanana.com/mods/411552)
 *   [Bonely's Rhythm](https://gamebanana.com/mods/535787)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dousky&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexDousky&show_icons=true&theme=radical)
