@@ -6,8 +6,8 @@
 
 ---
 
-B.Day: 09/13 \n
-My nationality: Brazilian
+## B.Day: 09/13 
+## My nationality: Brazilian
 ---
 
 My recent work includes Projects from college like:
