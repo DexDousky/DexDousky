@@ -1,14 +1,22 @@
 <p aling= "center">
     <img src = "banner.gif" width = "800px" aling = "right" >
+    <h2 aling= "center">--  Dex Dousky --</h2>
 
 # -- Welcome to my Github profile! --
+
 </p>
 
----
+----------------------------------------------
 
-## B.Day: 09/13 
-## My nationality: Brazilian
----
+B.Day: 09/13 
+
+My nationality: Brazilian
+
+I'm a VGM composer, Modder, Coder and Artist
+
+Founder of Chaotix Crew' and Dousky Team
+
+----------------------------------------------
 
 My recent work includes Projects from college like:
 *   [Queimada Crash](https://github.com/DexDousky/APS-jogo-das-queimadas)
