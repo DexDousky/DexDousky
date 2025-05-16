@@ -1,5 +1,5 @@
 <p aling= "center">
-    <img src = "banner.gif" width = "800px" aling = "right" >
+    <img src = "banner.gif" width = "700px" aling = "center" >
 
 # -- Welcome to my Github profile! --
 
