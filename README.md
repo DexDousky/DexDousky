@@ -1,3 +1,3 @@
-<img src = "banner.gif" width = "500px" aling = "right" >
+<img src = "banner.gif" width = "800px" aling = "right" >
 
 # Bem vindo ao meu Perfil Github!
