@@ -1,6 +1,5 @@
 <p aling= "center">
     <img src = "banner.gif" width = "800px" aling = "right" >
-    <h2 aling= "center">--  Dex Dousky --</h2>
 
 # -- Welcome to my Github profile! --
 
