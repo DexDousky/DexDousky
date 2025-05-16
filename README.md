@@ -26,4 +26,7 @@ I also had a lil' hand on other mods like:
 *   [FNF: Stickman with a Screwdriver ](https://gamebanana.com/mods/411552)
 *   [Bonely's Rhythm](https://gamebanana.com/mods/535787)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexDousky&show_icons=true&theme=radical)
+<div aling="left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexDousky&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=DexDousky&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
