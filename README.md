@@ -2,7 +2,7 @@
   <img src="banner.gif" width="700px" alt="banner">
 </p>
 
-<h1 align="center">👋 Welcome to my GitHub profile!</h1>
+<h1 align="center">👋 Bem Vindo ao meu perfil!</h1>
 
 ---
 
