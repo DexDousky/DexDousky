@@ -15,23 +15,6 @@
 
 ---
 
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://bsky.app/profile/dexdousky.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
-  </a>
-  <a href="https://soundcloud.com/dexdousky">
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
-  </a>
-  <a href="https://x.com/DexDousky">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-  </a>
-  <img src="https://img.shields.io/badge/Discord-acedousky-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: acedousky">
-</p>
-
----
-
 ## 🛠️ Habilidades
 
 **Linguagens e ferramentas que utilizo:**
